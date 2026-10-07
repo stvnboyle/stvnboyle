@@ -2,8 +2,6 @@
 
 Engineer based in Newcastle upon Tyne 🇬🇧
 
-I like building things and figuring out the tricky problems along the way.
-
 🕸️ A decade of experience building for the web
 
 🧪 This is where my projects and experiments live
