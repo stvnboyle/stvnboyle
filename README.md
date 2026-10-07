@@ -1,14 +1,16 @@
-## Hey, I'm Steven 👋
+### Hey, I'm Steven 👋
 
-Engineer, architect and founder based in Newcastle upon Tyne 🇬🇧
+Engineer based in Newcastle upon Tyne 🇬🇧
 
 I like building things and figuring out the tricky problems along the way.
 
+🕸️ A decade of experience building for the web
+
 🧪 This is where my projects and experiments live
 
-🛠️ Technical lead and engineering manager at hedgehog lab by day
+🌱 Just starting to open source things
 
-🚀 Building [gitgood.io](https://gitgood.io) outside of it
+🛠️ Technical lead and engineering manager at hedgehog lab
 
 🌐 More about me at [stevenboyle.dev](https://stevenboyle.dev)
 
