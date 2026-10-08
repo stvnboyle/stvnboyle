@@ -2,7 +2,7 @@
 
 Engineer based in Newcastle upon Tyne 🇬🇧
 
-🕸️ A decade of experience building for the web
+🕸️ Over a decade building software
 
 🧪 This is where my projects and experiments live
 
